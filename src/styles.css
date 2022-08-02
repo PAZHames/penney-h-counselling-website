@@ -11,10 +11,11 @@ a.nav-link,
 a.navbar-brand {
   color: white;
   font-family: "Playfair display";
-  font-size: 20px;
+  font-size: 24px;
 }
 
-a.nav-link:hover {
+a.nav-link:hover,
+a.navbar-brand:hover {
   background-color: white;
   color: #144106;
   border-radius: 10px;
