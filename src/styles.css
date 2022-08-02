@@ -52,6 +52,19 @@ p {
   font-size: 20px;
   padding: 10px;
 }
+
+footer {
+  text-align: center;
+  font-family: "Playfair display";
+  font-size: 26px;
+  font-weight: bold;
+  color: #ffff;
+  background: #144106;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  border-width: 3px;
+  border-color: #144106;
+}
 .page-title {
   font-family: "Playfair display";
   font-size: 40px;
@@ -74,6 +87,7 @@ p {
   border-radius: 60px;
   border-width: 3px;
   border-color: #144106;
+  box-shadow: 2px 2px 2px #144106;
   color: #144106;
   background-color: #d4dfcf;
   text-align: center;
@@ -122,4 +136,14 @@ p {
   color: #144106;
   font-size: 16px;
   padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-email:hover {
+  color: inherit;
+  text-decoration: underline;
 }
