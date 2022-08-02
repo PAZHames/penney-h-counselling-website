@@ -68,10 +68,10 @@ footer {
 }
 .page-title {
   font-family: "Playfair display";
-  font-size: 40px;
+  font-size: 44px;
   text-align: center;
   color: #144106;
-  font-weight: bold;
+  font-weight: bolder;
   padding-bottom: 20px;
 }
 .home-text {
