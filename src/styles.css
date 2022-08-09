@@ -78,6 +78,11 @@ footer {
   border: none;
 }
 
+.dropdown-item {
+  font-family: "Lato";
+  color: #144106;
+}
+
 .contact-button {
   font-family: "Playfair display";
   font-size: 26px;
